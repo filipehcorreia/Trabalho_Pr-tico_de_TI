@@ -1,0 +1,6 @@
+Existem contas já criadas, todas têm como password:password
+Usernames Administradores:admin,Filipe,ShorMeneses
+Usernames não Administradores:Diana
+
+Uma conta sem NIF e Morada tem funcionalidades limitadas.
+Não se pode apagar veículos com multas pendentes.
